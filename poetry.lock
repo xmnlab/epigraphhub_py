@@ -389,7 +389,7 @@ woff = ["zopfli (>=0.1.4)", "brotlicffi (>=0.8.0)", "brotli (>=1.0.1)"]
 
 [[package]]
 name = "geoalchemy2"
-version = "0.10.2"
+version = "0.11.1"
 description = "Using SQLAlchemy with Spatial Databases"
 category = "main"
 optional = false
@@ -1285,7 +1285,7 @@ viz = ["matplotlib", "seaborn", "nc-time-axis"]
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.9,<3.11"
-content-hash = "66f52026f1f04394b36cf3e1748e06ba584d32bf8c1c6f1a6ac1b4d170dc7bcf"
+content-hash = "c3e575da189ec073ed92a90db03addb3773d35f06ed6aef49eb048006cbb7e73"
 
 [metadata.files]
 arviz = [
@@ -1564,8 +1564,8 @@ fonttools = [
     {file = "fonttools-4.28.5.zip", hash = "sha256:545c05d0f7903a863c2020e07b8f0a57517f2c40d940bded77076397872d14ca"},
 ]
 geoalchemy2 = [
-    {file = "GeoAlchemy2-0.10.2-py2.py3-none-any.whl", hash = "sha256:22350c34c4c31faead91b2f0146b68835dcd66c34122ba1f2277a9dfb6543baa"},
-    {file = "GeoAlchemy2-0.10.2.tar.gz", hash = "sha256:3db833746e11bc802b754751ec94eaab81009a9ad8fe647d461fe76d1a47a3fd"},
+    {file = "GeoAlchemy2-0.11.1-py2.py3-none-any.whl", hash = "sha256:43ce38a5387c9b380b4c9d20d720c3d8cf1752ca4f5f18aa88041be11f6948a3"},
+    {file = "GeoAlchemy2-0.11.1.tar.gz", hash = "sha256:f92a0faddb5b74384dbbf3c7000433358ce8e07a180fe1d6c2843eaa0437ff08"},
 ]
 geopandas = [
     {file = "geopandas-0.10.2-py2.py3-none-any.whl", hash = "sha256:1722853464441b603d9be3d35baf8bde43831424a891e82a8545eb8997b65d6c"},
